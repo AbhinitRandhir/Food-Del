@@ -26,13 +26,14 @@ return (
             <div className="footer-content-right">
                 <h2>GET IN TOUCH</h2>
                 <ul>
-                    <li>+91 9988776655</li>
-                    <li>abhi99@gmail.com</li>
+                    <li>Abhinit Kumar</li>
+                    <li>+91 998877XXXX</li>
+                    <li>abhinitk045@gmail.com</li>
                 </ul>
             </div>
         </div>
         <hr/>
-        <p className="footer-copyright">Copyright 2025 © Tomato.com - All Right Reserved.</p>
+        <p className="footer-copyright">Copyright 2025 © Food.Eat.com - All Right Reserved.</p>
     </div>
 )
 }
