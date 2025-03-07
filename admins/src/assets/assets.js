@@ -14,4 +14,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = 'https://backend-tkcm.onrender.com'
+export const url = 'https://backend-89yw.onrender.com'
